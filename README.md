@@ -1,6 +1,6 @@
 # Express Starter Template
 
-This is a brief document that goes over the steps needed to set up a basic Express application.
+This will go over the step by step directions to set up a basic express template
 
 ## Step by Step
 
